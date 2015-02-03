@@ -1,0 +1,17 @@
+{
+  "name": "angular-analytics-integrations-segment",
+  "main": "angular-analytics-integrations-segment.js",
+  "authors": [
+    "L42y <423300@gmail.com>"
+  ],
+  "keywords": [
+    "angular",
+    "analytics",
+    "segment"
+  ],
+  "license": "WTFPL",
+  "homepage": "https://github.com/L42y/angular-analytics-integrations-segment",
+  "dependencies": {
+    "angular-analytics": "L42y/angular-analytics#~0.3.0"
+  }
+}
